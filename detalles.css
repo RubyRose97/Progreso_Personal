@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+}
+
+.Titulo{
+    font-family: monospace;
+    text-align: center;
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-shadow: 8px 3px 6px burlywood;
+}
+
+img{
+    display: block;
+    margin: auto;
+}   
+
+p{
+    font-size: 18px;
+}
+
+.subrayar{
+    text-decoration-line: underline;
+    background-color: tomato;
+    
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: chocolate;
+    text-decoration-line: underline;
+
+}
+.grande{
+    font-size: 25px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
